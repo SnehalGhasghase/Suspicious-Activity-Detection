@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hammer1</folder>
+	<filename>camera1_27.jpg</filename>
+	<path>/home/cas-orange/Desktop/Blue_background/artificial/hammer1/camera1_27.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hammer1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>134</ymin>
+			<xmax>401</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>

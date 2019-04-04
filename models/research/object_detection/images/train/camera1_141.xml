@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plier1</folder>
+	<filename>camera1_141.jpg</filename>
+	<path>/home/cas-orange/Desktop/Blue_background/artificial/plier1/camera1_141.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plier1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>490</xmin>
+			<ymin>181</ymin>
+			<xmax>580</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

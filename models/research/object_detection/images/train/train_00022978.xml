@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sorted dataset</folder>
+	<filename>train_00022978.jpg</filename>
+	<path>F:\new\darkflow-master\cfg\Sorted dataset\train_00022978.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>573</width>
+		<height>364</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thief</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>19</ymin>
+			<xmax>381</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>

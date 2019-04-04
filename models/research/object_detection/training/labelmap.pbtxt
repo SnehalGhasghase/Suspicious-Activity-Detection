@@ -1,0 +1,14 @@
+item {
+  id: 1
+  name: 'thief'
+}
+
+item {
+  id: 2
+  name: 'hammer1'
+}
+
+item {
+  id: 3
+  name: 'plier1'
+}
